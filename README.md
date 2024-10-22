@@ -207,18 +207,7 @@ Would you like a more detailed breakdown of any specific part of the code or fur
 ![data science](https://github.com/user-attachments/assets/3f458714-65b3-49c5-bebc-14848b08683a)
 ![data-science](https://github.com/user-attachments/assets/48f48324-5448-46a6-b99b-c3fd1c05e7cb)
 
-## Supervised by 
-[Prof. Agughasi Victor Ikechukwu](https://github.com/Victor-Ikechukwu), 
-(Assistant Professor) 
-Department of CSE, MIT Mysore)
 
-
-## Collaborators
-
-- 4MH21CS044 [Likith Nirvan]() 
-- 4MH21CS126 [Guru Prasad G M](https://github.com/Guruprasad619)
-- 4MH21CS008 [Arun Ram R](https://github.com/ArunramR)
-- 4MH21CS037 [Jayanthan B N](https://github.com/Jayanthan23)
 
 ## License
 
